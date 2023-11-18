@@ -16,6 +16,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhi-bhutia&show_icons=true&locale=en&layout=compact" alt="vidhi-bhutia" /></p>
 
+[![An image of @vidhibhutia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidhibhutia)](https://holopin.io/@vidhibhutia)
+
 [![Vidhi-bhutia's GitHub | Stats](https://stats.quine.sh/Vidhi-bhutia/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Vidhi-bhutia)
 
 [![Vidhi-bhutia's GitHub | Dependencies](https://stats.quine.sh/Vidhi-bhutia/dependencies?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Vidhi-bhutia)

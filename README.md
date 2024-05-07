@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently learning Data Analytics<br>🌱 I’m currently pursuing BTech CSE from VIT, Vellore<br>
+<h1 align="center">Hi 👋, I'm Vidhi Bhutia</h1>
+<h3 align="center">A Computer Science and Engineering and Business Systems Student at VIT, Vellore </h3>
+
+🔭 I’m currently learning Data Analytics<br>
 
 
 ## 🌐 Socials:
@@ -15,7 +17,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vidhi-bhutia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## Holopin contribution badges
+[![An image of @vidhibhutia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidhibhutia)](https://holopin.io/@vidhibhutia)
+
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
